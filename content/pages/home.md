@@ -1,30 +1,32 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Vegan Food Tours Tallinn
+featuredImage: 'https://unsplash.com/photos/DXfbUCVg4zE'
+subtitle: 'Vegan spots with local tour guide and alternative locations'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Vegan spots with local tour guide and alternative locations
+  title: Vegan Food Tours Tallinn
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Get to know Tallinn's rich vegan food scene and explore the hidden gems with local tour guide.
 
-# Features
+# What to expect from the tour
+2.5 hour tour, visiting alternative locations and best vegan spots of Tallinn
+Food, drinks and dessert in 5 locations. After the tour beer/coffee/ice cream tasting
+Visit Tallinn's lively street food market
+Tips and recommendations for more places to visit and stay
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+# The tour
+40 euros per person
+In English
+Maximum 5 people
+Be sure to come prepared, i.e hungry 😊
+Starts in front of Raekoda building on Raekoja plats 4pm Tuesday – Saturday
 
-## Get started
+# Where do we go
+Delicious-smelling stalls roasting almonds, family run chocolaterie, peek into kitchen of great vegan burgers in the city and ice cream tasting in the first organic ice cream makers in Estonia. Let us show you the hidden gems of Tallinn!
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+# Meeting Place
+Raekoja plats is the center square of Old Town. You can take public transport to Hobujaama, Estonia or Balti Jaam bus stop but will have to walk to Old Town from there. It is a 3 min walk from Hobujaama bus stop and Viru Keskus shopping center. We will meet under the medieval city council building with a tower. 
