@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Vegan Food Tours Tallinn
-featuredImage: 'https://unsplash.com/photos/DXfbUCVg4zE'
+featuredImage: 'https://images.unsplash.com/photo-1602521519815-85c4548bff5e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=666&q=80'
 subtitle: 'Vegan spots with local tour guide and alternative locations'
 meta:
   description: Vegan spots with local tour guide and alternative locations
@@ -13,17 +13,16 @@ meta:
 Get to know Tallinn's rich vegan food scene and explore the hidden gems with local tour guide.
 
 # What to expect from the tour
-2.5 hour tour, visiting alternative locations and best vegan spots of Tallinn
+- 2.5 hour tour, visiting alternative locations and best vegan spots of Tallinn
 Food, drinks and dessert in 5 locations. After the tour beer/coffee/ice cream tasting
-Visit Tallinn's lively street food market
-Tips and recommendations for more places to visit and stay
+- Visit Tallinn's lively street food market
+- Tips and recommendations for more places to visit and stay
 
 # The tour
-40 euros per person
-In English
-Maximum 5 people
-Be sure to come prepared, i.e hungry 😊
-Starts in front of Raekoda building on Raekoja plats 4pm Tuesday – Saturday
+- In English
+- Maximum 5 people
+- Be sure to come prepared, i.e hungry 😊
+- Starts in front of Raekoda building on Raekoja plats 4pm Tuesday – Saturday
 
 # Where do we go
 Delicious-smelling stalls roasting almonds, family run chocolaterie, peek into kitchen of great vegan burgers in the city and ice cream tasting in the first organic ice cream makers in Estonia. Let us show you the hidden gems of Tallinn!
