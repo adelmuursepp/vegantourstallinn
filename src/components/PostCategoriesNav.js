@@ -9,17 +9,6 @@ const PostCategoriesNav = ({ categories, enableSearch }) => (
     <Link className="NavLink" exact="true" to={`/blog/`}>
       All
     </Link>
-    {categories.map((category, index) => (
-      <Link
-        exact="true"
-        className="NavLink"
-        key={category.title + index}
-        to={category.slug}
-      >
-        {category.title}
-      </Link>
-    ))}
-
     {enableSearch && <BlogSearch />}
   </div>
 )
